@@ -16,4 +16,4 @@ jobs:
 
     steps:
     - name: Setup python
-    - uses: actions/setup-python@v4.5.0
+      uses: actions/setup-python@v4.5.0
